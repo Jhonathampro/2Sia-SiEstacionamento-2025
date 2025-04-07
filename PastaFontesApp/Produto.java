@@ -1,4 +1,4 @@
-
+// classes de produtos oferecidos no estacionamento lavagem e troca de olho
 public class Produto {
 
 	private double peso;
